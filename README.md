@@ -6,9 +6,15 @@ HackStory was created for a hackathon focused on exploring and celebrating histo
 
 By sharing Rustin's story, this project aims to shed light on the importance of recognizing all voices in history, especially those who have been marginalized.
 
+## Project Description
+
+**"The Untold Legacy of Bayard Rustin"** is a digital tribute to one of the most influential yet overlooked figures in the American civil rights movement. This website explores Rustin's pivotal role in shaping nonviolent protest strategies, organizing the 1963 March on Washington, and advocating for marginalized communities—including the LGBTQ+ community—long before intersectionality was widely acknowledged.
+
+I chose Rustin because his story reflects the complexity of identity and activism, especially for those who were pushed to the margins despite their contributions. By spotlighting his life, I hope to inspire others to dig deeper into history and celebrate changemakers who often remain in the shadows.
+
 ### Team Members
 
-- **Syna B.**, 2nd year undergraduate  
+- **Syna Malhan**, 2nd year undergraduate  
   *Role:* Solo. Lead developer and researcher. 
 
 
