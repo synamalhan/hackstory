@@ -6,6 +6,13 @@ HackStory was created for a hackathon focused on exploring and celebrating histo
 
 By sharing Rustin's story, this project aims to shed light on the importance of recognizing all voices in history, especially those who have been marginalized.
 
+### Team Members
+
+- **Syna B.**, 2nd year undergraduate  
+  *Role:* Solo. Lead developer and researcher. 
+
+
+
 ## How This Project Was Built
 
 - **Frontend:** Built with [React](https://react.dev/) for a dynamic and interactive user experience.
